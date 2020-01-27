@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322681637581",
+    "firebase_url": "https://rfidlibrary-47f34.firebaseio.com",
+    "project_id": "rfidlibrary-47f34",
+    "storage_bucket": "rfidlibrary-47f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322681637581:android:c6ab4f0a91a31c67",
+        "android_client_info": {
+          "package_name": "org.cxhubnigeria.rfidlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322681637581-5v4jl10l9uh7mcccbskeqq63etg7ajrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.cxhubnigeria.rfidlibrary",
+            "certificate_hash": "08905a0abe9d29039c281d40b3044f3323d18bfe"
+          }
+        },
+        {
+          "client_id": "322681637581-j9ttf326pucikbao9ui68eng6je6ctdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1fIMq3j5wiEMO-08dhiECMlkykf_iD48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322681637581-j9ttf326pucikbao9ui68eng6je6ctdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
